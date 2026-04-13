@@ -4,3 +4,4 @@
 ![https://github.com/4544085-debug/hwi/blob/64355f6589bc3717ef4fe1eafa268395b871f7d5/README.md]
 
 ![images](https://github.com/4544085-debug/hwi/blob/main/6%EC%8B%9C%202.JPG)
+![사진](6시 2.JPG)
